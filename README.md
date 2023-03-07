@@ -1,1 +1,1 @@
-https://iridescent-moxie-7a926b.netlify.app/
+https://movieapp123.netlify.app/
